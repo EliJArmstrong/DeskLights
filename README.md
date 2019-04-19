@@ -5,7 +5,9 @@ This project is to turn off and on the 3 lights above my desk.
 # Interface
 
 [x] A GUI applcation for windows based computers. (An applacation in JavaFX is in the works for a more universal application)
+
 [x] A touch sensor.
+
 [x] Infrared controller.
 
 The hardware side of the project uses mains power to power the lights using relays. So, I'm NOT going to show the mains power side of the project for safety reasons.  
