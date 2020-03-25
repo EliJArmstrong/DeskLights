@@ -11,7 +11,7 @@ using System;
 using System.Drawing;
 using System.Windows.Forms;
 using System.IO.Ports;
-// using System.Diagnostics; only need for debuging
+// using System.Diagnostics; only needed for debuging.
 using System.IO;
 using System.Linq;
 
