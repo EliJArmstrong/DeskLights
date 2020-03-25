@@ -1,0 +1,13 @@
+E:\DeskLights\DeskLights\DeskLightsVS\WindowsFormsApp2\bin\Release\DeskLights.exe.config
+E:\DeskLights\DeskLights\DeskLightsVS\WindowsFormsApp2\bin\Release\DeskLights.exe
+E:\DeskLights\DeskLights\DeskLightsVS\WindowsFormsApp2\bin\Release\DeskLights.pdb
+E:\DeskLights\DeskLights\DeskLightsVS\WindowsFormsApp2\obj\Release\DeskLights.DeskLights.resources
+E:\DeskLights\DeskLights\DeskLightsVS\WindowsFormsApp2\obj\Release\DeskLights.Properties.Resources.resources
+E:\DeskLights\DeskLights\DeskLightsVS\WindowsFormsApp2\obj\Release\DeskLights.csproj.GenerateResource.cache
+E:\DeskLights\DeskLights\DeskLightsVS\WindowsFormsApp2\obj\Release\DeskLights.csproj.CoreCompileInputs.cache
+E:\DeskLights\DeskLights\DeskLightsVS\WindowsFormsApp2\obj\Release\DeskLights.exe
+E:\DeskLights\DeskLights\DeskLightsVS\WindowsFormsApp2\obj\Release\DeskLights.pdb
+E:\DeskLights\DeskLights\DeskLightsVS\WindowsFormsApp2\bin\Release\DeskLights.exe.manifest
+E:\DeskLights\DeskLights\DeskLightsVS\WindowsFormsApp2\bin\Release\DeskLights.application
+E:\DeskLights\DeskLights\DeskLightsVS\WindowsFormsApp2\obj\Release\DeskLights.exe.manifest
+E:\DeskLights\DeskLights\DeskLightsVS\WindowsFormsApp2\obj\Release\DeskLights.application

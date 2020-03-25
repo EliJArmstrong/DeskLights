@@ -2,6 +2,11 @@
  * Desk Lights: This will take in data from the serial port or from an 
  * IR remote. This program is to control the lights above my desk. 
  * Copyright 2018 Eli Armstrong
+ * 
+ * Note: This file, when compared to the other .ino file just has a some 
+ * extra functionality for fun. The extra code could be found in the 
+ * IRProcessor function.
+ * 
  */
 
 // ==========================================================================

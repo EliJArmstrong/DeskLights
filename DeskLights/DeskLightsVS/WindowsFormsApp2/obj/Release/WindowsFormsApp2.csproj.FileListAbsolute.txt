@@ -1,0 +1,9 @@
+C:\Users\firef\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe.config
+C:\Users\firef\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe
+C:\Users\firef\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.pdb
+C:\Users\firef\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form1.resources
+C:\Users\firef\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\firef\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\firef\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\firef\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.exe
+C:\Users\firef\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.pdb
